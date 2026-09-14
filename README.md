@@ -1,5 +1,5 @@
 # my-web
 
-Welcome Suky's world, please go to ssssuky.com to explore! 
+My name is Suky Jiang, nice to meet you! Please go to [Suky's World](https://ssssuky.com) to explore! 
 
-Have Fun
+Have Fun!
